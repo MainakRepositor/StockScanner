@@ -18,8 +18,7 @@ st.set_page_config(layout="wide")
 
 print("**************************************************")
 st.title('STOCK TREND PREDICTION')
-st.markdown("Made By: Umang Kirit Lodaya ©. [GitHub](https://github.com/Umang-Lodaya/Stock-Market-Trend-Prediction) | [LinkedIn](https://www.linkedin.com/in/umang-lodaya-074496242/) | [Kaggle](https://www.kaggle.com/umanglodaya)")
-st.markdown("")
+
 
 # The tech stocks we'll use for this analysis
 stock = st.text_input('ENTER A STOCK CODE', 'TSLA')
