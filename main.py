@@ -180,6 +180,3 @@ except Exception as e:
     st.markdown(e)
 
 
-# with st.expander("ABOUT"):
-#     st.markdown("Made By: UMANG KIRIT LODAYA")
-#     st.markdown("Link to my Profiles: [GitHub](https://github.com/Umang-Lodaya/Stock-Market-Trend-Prediction) | [LinkedIn](https://www.linkedin.com/in/umang-lodaya-074496242/) | [Kaggle](https://www.kaggle.com/umanglodaya)")
